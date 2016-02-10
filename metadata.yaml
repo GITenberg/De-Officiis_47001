@@ -1,0 +1,31 @@
+_repo: De-Officiis_47001
+contributor:
+  translator:
+    agent_name: Miller, Walter M.
+    aliases:
+    - Miller, Walter Michael
+    - Miller, W. M. (Walter M.)
+    birthdate: 1923
+    deathdate: 1996
+    gutenberg_agent_id: '33738'
+    url: http://www.gutenberg.org/2009/agents/33738
+    wikipedia: http://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: ''
+gutenberg_issued: '2014-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: De Officiis
+url: http://www.gutenberg.org/ebooks/47001
